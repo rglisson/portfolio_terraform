@@ -3,7 +3,7 @@
 ![](img/terraform.PNG)
 
 # Introduction & Goals
-- The goal of the project was to use infrastructure-as-Code to create an ec2 instance, deploy on custom VPC on custom subnet, use a public IP address to ssh into the server, and setup a webserver to handle web traffic.
+- The goal of the project was to use infrastructure-as-Code to create an ec2 instance, deploy a custom VPC on a custom subnet, use a public IP address to ssh into the server, and setup a webserver to handle web traffic.
 
 # Application
 - "Terraform is an open-source infrastructure as code software tool created by HashiCorp. Users define and provision data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language, or optionally JSON"
